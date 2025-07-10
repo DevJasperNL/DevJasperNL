@@ -1,16 +1,29 @@
-## Hi there 👋
+## 👋 Hi, I’m Jasper
 
-<!--
-**DevJasperNL/DevJasperNL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate and enthusiastic senior software engineer with a strong focus on software quality and customer satisfaction.
 
-Here are some ideas to get you started:
+I bring experience working in multinational, multidisciplinary teams, contributing to every stage of the software development lifecycle. I’m a reliable team player, always eager to learn, and quick to adapt in dynamic environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My love for programming began long before my professional career. Even in elementary school, I was already creating computer games—drawn in by the magic of turning an idea into something real that others could enjoy. That sense of creativity and impact still drives me today.
+
+Outside of work, I’m an active contributor to the open source community and always have a side project on the go.
+
+---
+
+## 🌱 What I’m working on / Open Source projects
+
+Some of the open source projects I’ve created or contributed to (all in .NET C#):
+
+- 🗓️ [**Occurify**](https://github.com/Occurify/Occurify) – A powerful and intuitive .NET library for defining, filtering, transforming, and scheduling instant and period timelines.
+- 🏡 [**CodeCasa**](https://github.com/DevJasperNL/CodeCasa) – A smart home implementation example using C# and NetDaemon.
+- 🏗️ [**CodeCasa.Libraries**](https://github.com/DevJasperNL/CodeCasa.Libraries) – A collection of .NET libraries focused on smart home automation and general-purpose utilities.
+- 🔄 [**Reactive.Boolean**](https://github.com/DevJasperNL/Reactive.Boolean) – Reactive Extensions meant specifically for implementations of `IObservable<bool>`.
+- 🤖 [**NetDaemon.Utils**](https://github.com/DevJasperNL/NetDaemon.Utils) – A collection of .NET libraries focused on NetDaemon extensions and utilities.
+- 🛠️ Contributor to [**NetDaemon**](https://github.com/net-daemon/netdaemon)
+
+---
+
+## 📫 Socials
+
+- 🌐 Portfolio/blog: [jasperlammers.com](https://jasperlammers.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jasper-lammers/)
