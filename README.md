@@ -15,10 +15,9 @@ Outside of work, I’m an active contributor to the open source community and al
 Some of the open source projects I’ve created or contributed to (all in .NET C#):
 
 - 🗓️ [**Occurify**](https://github.com/Occurify/Occurify) – A powerful and intuitive .NET library for defining, filtering, transforming, and scheduling instant and period timelines.
-- 🏡 [**CodeCasa**](https://github.com/DevJasperNL/CodeCasa) – A smart home implementation example using C# and NetDaemon.
-- 🏗️ [**CodeCasa.Libraries**](https://github.com/DevJasperNL/CodeCasa.Libraries) – A collection of .NET libraries focused on smart home automation and general-purpose utilities.
+- 🏡 [**CodeCasa.Showcase**](https://github.com/DevJasperNL/CodeCasa.Showcase) – A smart home implementation example using C# and NetDaemon.
+- 🏗️ [**CodeCasa**](https://github.com/DevJasperNL/CodeCasa) – A collection of .NET libraries providing NetDaemon extensions alongside general purpose smart home automation utilities.
 - 🔄 [**Reactive.Boolean**](https://github.com/DevJasperNL/Reactive.Boolean) – Reactive Extensions meant specifically for implementations of `IObservable<bool>`.
-- 🤖 [**NetDaemon.Utils**](https://github.com/DevJasperNL/NetDaemon.Utils) – A collection of .NET libraries focused on NetDaemon extensions and utilities.
 - 🛠️ Contributor to [**NetDaemon**](https://github.com/net-daemon/netdaemon)
 
 ---
