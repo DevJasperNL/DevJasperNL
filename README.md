@@ -18,6 +18,7 @@ Some of the open source projects I’ve created or contributed to (all in .NET C
 - 🏡 [**CodeCasa.Showcase**](https://github.com/DevJasperNL/CodeCasa.Showcase) – A smart home implementation example using C# and NetDaemon.
 - 🏗️ [**CodeCasa**](https://github.com/DevJasperNL/CodeCasa) – A collection of .NET libraries providing NetDaemon extensions alongside general purpose smart home automation utilities.
 - 🔄 [**Reactive.Boolean**](https://github.com/DevJasperNL/Reactive.Boolean) – Reactive Extensions meant specifically for implementations of `IObservable<bool>`.
+- 🧩 [**DependencyInjection.Composite**](https://github.com/DevJasperNL/DependencyInjection.Composite) – A lightweight, high-performance extension for Microsoft.Extensions.DependencyInjection that enables Contextual Scoping.
 - 🛠️ Contributor to [**NetDaemon**](https://github.com/net-daemon/netdaemon)
 
 ---
